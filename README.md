@@ -1,4 +1,4 @@
-<h4>Output :</h4>
+<h2>Output :</h2>
 
 <table>
   <tr>
